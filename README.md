@@ -62,10 +62,20 @@ Currently working with <strong>West Park Football Academy</strong>, blending ana
 
 ---
 
-🎮 Just for Fun
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31n4pwnowq5ly67q6izlwhzd2cly&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" width="45%" /> <img src="https://github-readme-chess-stats.vercel.app/api?username=derrick_code1990&theme=blue" width="45%" /> </p> <p align="center"> <img src="./assets/chess_win_1.png" width="45%" /> <img src="./assets/chess_win_2.png" width="45%" /> </p>
-♟ Currently chasing Elo 1000 like it owes me money!
-🧀 “I don’t always castle early… but when I do, it’s to make room for a royal beatdown.” 😎
+### 🎮 Just for Fun
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31n4pwnowq5ly67q6izlwhzd2cly&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" width="45%" />
+  <img src="https://github-readme-chess-stats.vercel.app/api?username=derrick_code1990&theme=blue" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./assets/Chess_win_1.png" width="45%" />
+  <img src="./assets/Chess_win_2.png" width="45%" />
+</p>
+
+> ♟ Currently chasing **Elo 1000** like it owes me money!  
+> 🧀 “I don’t always castle early… but when I do, it’s to make room for a *royal beatdown*.” 😎
 
 
 
