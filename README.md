@@ -7,11 +7,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=42F1D6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Derrick+Waititu;Finance+Graduate+Turned+Data+Scientist;" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-I'm a curious problem-solver who's passionate about using data to answer real-world questions—from why audiences love certain movies to how football academies can make better recruitment decisions.
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+
+<p align="center" style="font-family: 'Libre Baskerville', serif;">
+I don't just analyze data—I interrogate it until it confesses. From decoding what makes moviegoers cheer to optimizing how football academies scout the next prodigy, I'm on a mission to turn <em>"messi"</em> data into moments of genius.(I really do hope you got my joke 😢)</span>  <br>
+<span style="font-size: 0.9em; color: gray;">
 <br><br>
-Currently working with <strong>West Park Football Academy</strong>, blending analytics with sports development to uncover insights that actually move the needle.
+Currently weaving numbers into narratives at <strong>West Park Football Academy</strong>, where data meets instinct and insights don’t just inform—they disrupt.
 </p>
+
 
 ---
 
@@ -64,27 +68,24 @@ Currently working with <strong>West Park Football Academy</strong>, blending ana
 
 ### 🎮 Just for Fun
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31n4pwnowq5ly67q6izlwhzd2cly&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" width="45%" />
-  <img src="https://github-readme-chess-stats.vercel.app/api?username=derrick_code1990&theme=blue" width="45%" />
-</p>
+### *I LOOOOOVVVEEEE PLAYING CHESSSS*
 
 <p align="center">
-  <img src="./assets/Chess_win_1.png" width="45%" />
-  <img src="./assets/Chess_win_2.png" width="45%" />
+  <img src="./assets/Chess_win_2.png" width="500" />
 </p>
 
-> ♟ Currently chasing **Elo 1000** like it owes me money!  
-> 🧀 “I don’t always castle early… but when I do, it’s to make room for a *royal beatdown*.” 😎
+> ♟ Currently chasing that elusive Elo 1000—because even pawns have dreams! 😄 
+
 
 
 
 ---
 
 ### 📬 Let's Connect
+Either for a game of chess or Work 😄 
 
 - 📫 **derricknturibi1317@gmail.com**
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) <!-- Replace with your actual LinkedIn URL -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/derrick-waititu-a0a50026b/) 
 
 ---
 
